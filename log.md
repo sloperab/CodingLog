@@ -1,24 +1,5 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com) -->
-
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
-
-
 ### Day 1: 23 January 2023, Monday
 
 **Today's Progress**: Set up GitHub repo and review Git. Started creating columns and organizing data for future visualization.
@@ -26,7 +7,7 @@
 **Thoughts** Pandas is giving me some trouble, editing and working with the columns hasn't been that easy. Compared to SQL aggregate functions it is a bit harder to manage.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 2: 24 January 2023, Tuesday
 
@@ -41,7 +22,7 @@
 **Thoughts** Feeling good with the process, was able to make up lost work from yesterday's issue with the PC.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 4: 26 January 2023, Thursday
 
@@ -49,7 +30,7 @@
 
 **Thoughts** Had very good progress today, really annoyed by WordCloud not working on Python 3.11 and having trouble creating an environment with Python 3.9. However, proud of today's progress.
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 
 ### Day 5: 27 January 2023, Friday
@@ -59,7 +40,7 @@
 **Thoughts** Didn't have much time to work today, just barely completed the hour but still kept the challenge alive.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 6: 28 January 2023, Saturday
 
@@ -68,16 +49,16 @@
 **Thoughts** Short day, didn't do much coding.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 7: 31 January 2023, Tuesday
 
 **Today's Progress**: Advanced greatly in visualization of the last aspects. Done with Emoji and streak.
 
-**Thoughts** Weekend are hard days to work, I'm willing to keep the challenge going even if work is not done on weekends since internet is limited as well as time. Still progress has been considerable and feeling motivated to keep going and finish this first project. (According to the rules I owe 3 days.)
+**Thoughts** Weekend are hard days to work, I'm willing to keep the challenge going even if work is not done on weekends since internet is limited as well as time. Still progress has been considerable and feeling motivated to keep going and finish this first project.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 8: 2 February 2023, Thursday
 
@@ -87,16 +68,16 @@
 Realizing that with college studies finding one free hour to code every single day is hard. Will try to complete as many days consecutive days as I can however it is not realistic to always do it. Yet, the challenge ends after completing the 100 days.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 9: 6 February 2023, Monday
 
-**Today's Progress**: Rewriting the chat reading function from scratch. Having some trouble  acquiring the same shape as before.
+**Today's Progress**: Rewriting the chat reading function from scratch. Having some trouble acquiring the same shape as before.
 
 **Thoughts** Good progress today and happy with how the proyect is going. Almost done with this one.
 
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 
 ### Day 10: 13 February 2023, Monday
@@ -112,7 +93,7 @@ Realizing that with college studies finding one free hour to code every single d
 
 **Thoughts** Feeling good about the progress and unstuck a bit. ChatGPT looks like a really helpful tool and helped me work some things out.
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 12: 15 February 2023, Wednesday
 
@@ -120,7 +101,7 @@ Realizing that with college studies finding one free hour to code every single d
 
 **Thoughts** Feeling really stuck with streamlit. It was working before but now isn't and it is quite dissapointing.
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappChatAnalysis) (repo not public due to personal chat info shown, final repo contains the finished product)
 
 ### Day 13: 19 February 2023, Sunday
 
@@ -128,4 +109,4 @@ Realizing that with college studies finding one free hour to code every single d
 
 **Thoughts** Feeling really proud and glad to be done with a first project. Finally have something tangible to show.
 **Link(s) to work**
-1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappDash)
+1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappDash) Working repo
