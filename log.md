@@ -110,3 +110,17 @@ Realizing that with college studies finding one free hour to code every single d
 **Thoughts** Feeling really proud and glad to be done with a first project. Finally have something tangible to show.
 **Link(s) to work**
 1. [Chat Analysis Repo](https://github.com/sloperab/WhatsappDash) Working repo
+
+### Day 14: 27 February 2023, Monday
+
+**Today's Progress**: Started working on DataCamp Data Scientist course to improve and solidify the Python analysis skills. Today did a quick review of numpy and general Python.
+
+**Thoughts** Pretty easy review right now. 
+
+
+
+### Day 14: 28 February 2023, Tuesday
+
+**Today's Progress**: Continued with course. Started working on pandas subsetting and data manipulation.
+
+**Thoughts** Its a good review and reminds me of many concepts I didn't remember. Hoping to learn more each day.
