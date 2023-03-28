@@ -124,3 +124,10 @@ Realizing that with college studies finding one free hour to code every single d
 **Today's Progress**: Continued with course. Started working on pandas subsetting and data manipulation.
 
 **Thoughts** Its a good review and reminds me of many concepts I didn't remember. Hoping to learn more each day.
+
+
+### Day 15: 27 March 2023, Tuesday
+
+**Today's Progress**: Reviewing matplotlib using subplots and time series visualization.
+
+**Thoughts** Restarted writing in the coding log. Have been working on the DataCamp course without writing here, will continue writing.
