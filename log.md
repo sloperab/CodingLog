@@ -131,3 +131,10 @@ Realizing that with college studies finding one free hour to code every single d
 **Today's Progress**: Reviewing matplotlib using subplots and time series visualization.
 
 **Thoughts** Restarted writing in the coding log. Have been working on the DataCamp course without writing here, will continue writing.
+
+### Day 16: 28 March 2023, Tuesday
+
+**Today's Progress**: Learned about annotations in matplotlib, and twinx graphs that share an x axis.
+
+**Thoughts** Most of this info is new to me and it's good to know it exists.
+
