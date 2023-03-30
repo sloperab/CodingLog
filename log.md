@@ -138,3 +138,9 @@ Realizing that with college studies finding one free hour to code every single d
 
 **Thoughts** Most of this info is new to me and it's good to know it exists.
 
+### Day 17: 29 March 2023, Tuesday
+
+**Today's Progress**: Finished Matplotlib module of DataCamp. Going to start with Seaborn.
+
+**Thoughts** Enjoyed the module, looking forward for more.
+
