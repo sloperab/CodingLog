@@ -118,33 +118,32 @@ Realizing that with college studies finding one free hour to code every single d
 **Thoughts** Pretty easy review right now. 
 
 
-
-### Day 14: 28 February 2023, Tuesday
+### Day 15: 28 February 2023, Tuesday
 
 **Today's Progress**: Continued with course. Started working on pandas subsetting and data manipulation.
 
 **Thoughts** Its a good review and reminds me of many concepts I didn't remember. Hoping to learn more each day.
 
 
-### Day 15: 27 March 2023, Tuesday
+### Day 16: 27 March 2023, Monday
 
 **Today's Progress**: Reviewing matplotlib using subplots and time series visualization.
 
 **Thoughts** Restarted writing in the coding log. Have been working on the DataCamp course without writing here, will continue writing.
 
-### Day 16: 28 March 2023, Tuesday
+### Day 17: 28 March 2023, Tuesday
 
 **Today's Progress**: Learned about annotations in matplotlib, and twinx graphs that share an x axis.
 
 **Thoughts** Most of this info is new to me and it's good to know it exists.
 
-### Day 17: 29 March 2023, Tuesday
+### Day 18: 29 March 2023, Wednesday
 
 **Today's Progress**: Finished Matplotlib module of DataCamp. Going to start with Seaborn.
 
 **Thoughts** Enjoyed the module, looking forward for more.
 
-### Day 18: 10 April 2023, Tuesday
+### Day 19: 10 April 2023, Monday
 
 **Today's Progress**: Started working on Seaborn module. Learning a lot about the possible customizations of the plots. Very fun library.
 
