@@ -144,3 +144,9 @@ Realizing that with college studies finding one free hour to code every single d
 
 **Thoughts** Enjoyed the module, looking forward for more.
 
+### Day 18: 10 April 2023, Tuesday
+
+**Today's Progress**: Started working on Seaborn module. Learning a lot about the possible customizations of the plots. Very fun library.
+
+**Thoughts** Back from Spring Break where didn't have wifi to learn. Trying to stay on track with daily learning during weekdays.
+
